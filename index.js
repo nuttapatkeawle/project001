@@ -1,5 +1,6 @@
 /**
  * @format
+ * Nuttapat Keawle
  */
 
 import {AppRegistry} from 'react-native';
