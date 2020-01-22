@@ -1,6 +1,7 @@
 /**
  * @format
  * Nuttapat Keawle
+ *BCOM
  */
 
 import {AppRegistry} from 'react-native';
